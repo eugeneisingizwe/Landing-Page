@@ -63,4 +63,4 @@ In this mini-project, I am building a landing page using HTML and CSS
 
 ## Mock-Up
 
-![page-mock-up](./main/images/127.0.0.1_5500_main_index.html.png)
+![page-mock-up](./Assets/images/127.0.0.1_5500_main_index.html.png)

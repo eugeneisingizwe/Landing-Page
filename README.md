@@ -60,7 +60,7 @@ In this mini-project, I am building a landing page using HTML and CSS
 - It's done when the page is deployed to GitHub Pages.
 
 ## Link To Deploy Page
-
+https://eugeneisingizwe.github.io/Landing-Page/
 ## Mock-Up
 
 ![page-mock-up](./Assets/images/127.0.0.1_5500_main_index.html.png)
